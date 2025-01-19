@@ -1,0 +1,15 @@
+'''
+
+Author: Samantha Carter-Brooks
+Date: 1/19/2025
+Version: 1.0
+Program: Module1_CarterBrooks_Samantha.py
+'''
+#initialization
+STRING_CATS = "cats"
+STRING_DOGS = "dogs"
+
+finalStatement:"It is raining cats and dogs."
+
+#output information
+print("It is raining cats and dogs")
